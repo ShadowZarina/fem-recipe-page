@@ -19,7 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 Frontend Mentor: [Challenge link](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 
-### Screenshot
+### Screenshots
 
 ![](./screenshot.jpg)
 <img width="1472" height="1293" alt="{018B91DC-056A-44ED-84AE-C83F85F10140}" src="https://github.com/user-attachments/assets/d5bf58a3-1ca0-47d5-811e-fa3fd5601823" />
